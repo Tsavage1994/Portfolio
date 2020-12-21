@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap');
+
+*{
+    background-color: black
+}
+
+
+.nav-item center{
+    color: red;
+}
+.AboutMe{
+    color: white
+}
+.footer{
+    color: white
+}
